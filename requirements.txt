@@ -1,0 +1,8 @@
+Flask~=2.0.1
+WTForms~=2.3.3
+Werkzeug~=2.0.1
+gTTS~=2.2.3
+pydub~=0.25.1
+lxml~=4.6.3
+requests~=2.25.1
+beautifulsoup4~=4.9.3
